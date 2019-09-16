@@ -1,9 +1,3 @@
-# msg = 'hello wrld'
-# a = 5
-# b = 6
-# print(msg)
-# print(a + b)
-
 #dependencies za REST i JSON
 import requests
 import json
